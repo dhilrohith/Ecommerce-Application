@@ -1,0 +1,20 @@
+{
+  "name": "ecommerce-application",
+  "version": "1.0.0",
+  "description": "Ecommerce-Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhilrohith/Ecommerce-Application.git"
+  },
+  "author": "Dhil Rohith B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhilrohith/Ecommerce-Application/issues"
+  },
+  "homepage": "https://github.com/dhilrohith/Ecommerce-Application#readme"
+}
